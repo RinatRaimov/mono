@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+       <torg_price date="2021-54-11 03:54">
+<shop>
+<name></name>
+<company>Авто.ру</company>
+<url>http://auto.ru</url>
+<currencies>
+          <currency id="RUB"/>
+        </currencies>
+<categories>
+          <category id="1" parentId="0">Машины</category>
+        </categories>
+<offers>
+<offer id="1019666047-bfc0d" available="">
+      <url>https://auto.ru/cars/used/sale/daewoo/nexia/1019666047-bfc0d/</url>
+      <price>130000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2169830/33ba746dbacda2e453c05432dc02c1c2/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Daewoo</vendor>
+      <model>Nexia</model>
+      <description>Авто по технической части в хорошем состоянии, все работает кандер заправлен , опоры стоек, рулевые наконечники , сайлентблоки передних нижних рычагов...</description>
+      <ios_url>autoru://app/cars/used/sale/1019666047-bfc0d/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1019666047-bfc0d/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1019666047-bfc0d</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1019666047-bfc0d</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1065442514-a0ca1356" available="">
+      <url>https://auto.ru/cars/used/sale/audi/a6/1065442514-a0ca1356/</url>
+      <price>870000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2168885/9318edcbecbfafac83164e11c712aff2/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Audi</vendor>
+      <model>A6</model>
+      <description>Машина в хорошем состоянии , очень редкая комплектация. </description>
+      <ios_url>autoru://app/cars/used/sale/1065442514-a0ca1356/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1065442514-a0ca1356/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1065442514-a0ca1356</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1065442514-a0ca1356</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1075797749-60112af7" available="">
+      <url>https://auto.ru/cars/used/sale/toyota/land_cruiser/1075797749-60112af7/</url>
+      <price>1300000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2160938/45eebc443416bb8766fb4fd2847b5664/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Toyota</vendor>
+      <model>Land Cruiser</model>
+      <description>Land Cruiser 80 в хорошем состоянии, подготовлен под туризм (весь обвес оформлен), двигатель 1HDT, МКПП, установлена автономный подогреватель двигател...</description>
+      <ios_url>autoru://app/cars/used/sale/1075797749-60112af7/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1075797749-60112af7/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1075797749-60112af7</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1075797749-60112af7</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1083152918-4b3790ce" available="">
+      <url>https://auto.ru/cars/used/sale/ford/tourneo_connect/1083152918-4b3790ce/</url>
+      <price>475000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2153411/f680ad70c30dcabc0ee94d114aa2313c/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Ford</vendor>
+      <model>Tourneo Connect</model>
+      <description>Авто в отличном состоянии, двигатель и коробка передач без нареканий,масло не ест!</description>
+      <ios_url>autoru://app/cars/used/sale/1083152918-4b3790ce/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1083152918-4b3790ce/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1083152918-4b3790ce</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1083152918-4b3790ce</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1083784533-590c1553" available="">
+      <url>https://auto.ru/cars/used/sale/kia/optima/1083784533-590c1553/</url>
+      <price>1199000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2196765/9a90509e6204d3a157aa690a5c3e141c/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Kia</vendor>
+      <model>Optima</model>
+      <description>Машина в отличном состоянии, ПТС на руках. В авариях не была. </description>
+      <ios_url>autoru://app/cars/used/sale/1083784533-590c1553/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1083784533-590c1553/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1083784533-590c1553</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1083784533-590c1553</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1084117525-ef2448a7" available="">
+      <url>https://auto.ru/cars/used/sale/mitsubishi/mirage/1084117525-ef2448a7/</url>
+      <price>40000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2141718/7ce67825fe3b3a5b43696ec5641741e1/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Mitsubishi</vendor>
+      <model>Mirage</model>
+      <description>Не включаются передачи, потеряны ключи, двигатель запускается, стоит уже год, птс стс дкп на руках, торг</description>
+      <ios_url>autoru://app/cars/used/sale/1084117525-ef2448a7/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1084117525-ef2448a7/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1084117525-ef2448a7</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1084117525-ef2448a7</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1084682933-bc0174ad" available="">
+      <url>https://auto.ru/cars/used/sale/byd/f3/1084682933-bc0174ad/</url>
+      <price>220000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2087497/70c550761af3ea7286cd23835c661321/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>BYD</vendor>
+      <model>F3</model>
+      <description>Продаю хорошую машину,которая верой и правдой служила 3 года и  послужить ещё минимум столько же. Птс и эксплуатация с 2013г. Кто не хочет ковыряться ...</description>
+      <ios_url>autoru://app/cars/used/sale/1084682933-bc0174ad/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1084682933-bc0174ad/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1084682933-bc0174ad</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1084682933-bc0174ad</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1085019190-b859e595" available="">
+      <url>https://auto.ru/cars/used/sale/ford/fusion/1085019190-b859e595/</url>
+      <price>290000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-verba/216201/2a000001609c165ac2202e0a3ac0df35c21f/cattouch</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Ford</vendor>
+      <model>Fusion</model>
+      <description>не требует ремонта</description>
+      <ios_url>autoru://app/cars/used/sale/1085019190-b859e595/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1085019190-b859e595/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1085019190-b859e595</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1085019190-b859e595</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1086079276-4731dcb0" available="">
+      <url>https://auto.ru/cars/used/sale/great_wall/hoverh3/1086079276-4731dcb0/</url>
+      <price>700000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2181950/22916cf6180f47bd7e7d29d33ab7f5e8/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Great Wall</vendor>
+      <model>Hover H3</model>
+      <description>Непрокуренный салон. Куплена не в кредит. Сервисная книжка. Не участвовала в ДТП. Своевременное обслуживание. Вибаста.</description>
+      <ios_url>autoru://app/cars/used/sale/1086079276-4731dcb0/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1086079276-4731dcb0/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1086079276-4731dcb0</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1086079276-4731dcb0</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer><offer id="1086250040-646b1567" available="">
+      <url>https://auto.ru/cars/used/sale/renault/duster/1086250040-646b1567/</url>
+      <price>670000</price>
+      <oldprice></oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2180204/c7799d93e77b0e758811aee1c02339ae/1200x900</picture>
+      <typePrefix>car</typePrefix>
+      <vendor>Renault</vendor>
+      <model>Duster</model>
+      <description>Продам!</description>
+      <ios_url>autoru://app/cars/used/sale/1086250040-646b1567/?adjust_tracker=mqn3my</ios_url>
+      <android_url>autoru://app/cars/used/sale/1086250040-646b1567/?adjust_tracker=ruupl3</android_url>
+      <ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1086250040-646b1567</ios_tracking_url>
+      <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1086250040-646b1567</android_tracking_url>
+      <bundle_id>ru.auto.ara</bundle_id>
+      <ios_app_store_id>507760450</ios_app_store_id>
+    </offer>
+</offers>
+</shop>
+</torg_price>
