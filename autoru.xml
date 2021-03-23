@@ -11,9 +11,9 @@
           <category id="1" parentId="0">Машины</category>
         </categories>
 <offers>
-<offer id="1019666047-bfc0d" available="">
-      <url>https://auto.ru/cars/used/sale/daewoo/nexia/1019666047-bfc0d/</url>
-      <price>130000</price>
+<offer id="1019666047-bfc0d" available="pampam">
+      <url>//auto.ru/cars/used/sale/daewoo/nexia/1019666047-bfc0d/</url>
+      <price>130..000</price>
       <oldprice></oldprice>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
@@ -28,12 +28,12 @@
       <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1019666047-bfc0d</android_tracking_url>
       <bundle_id>ru.auto.ara</bundle_id>
       <ios_app_store_id>507760450</ios_app_store_id>
-    </offer><offer id="1065442514-a0ca1356" available="">
-      <url>https://auto.ru/cars/used/sale/audi/a6/1065442514-a0ca1356/</url>
-      <price>870000</price>
+    </offer><offer id="*^*&^*^&^^^&$^%$^$" availabl="">
+      <url>https:/auto.ru/cars/used/sale/audi/a6/1065442514-a0ca1356/</url>
+      <price>87.0000</price>
       <oldprice></oldprice>
       <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
+      <categoryId>12222222222</categoryId>
       <picture>https://avatars.mds.yandex.net/get-autoru-vos/2168885/9318edcbecbfafac83164e11c712aff2/1200x900</picture>
       <typePrefix>car</typePrefix>
       <vendor>Audi</vendor>
@@ -45,13 +45,13 @@
       <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1065442514-a0ca1356</android_tracking_url>
       <bundle_id>ru.auto.ara</bundle_id>
       <ios_app_store_id>507760450</ios_app_store_id>
-    </offer><offer id="1075797749-60112af7" available="">
-      <url>https://auto.ru/cars/used/sale/toyota/land_cruiser/1075797749-60112af7/</url>
-      <price>1300000</price>
+    </offer><offer id="1075797749-60112af7" available="true">
+      
+      <price></price>
       <oldprice></oldprice>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
-      <picture>https://avatars.mds.yandex.net/get-autoru-vos/2160938/45eebc443416bb8766fb4fd2847b5664/1200x900</picture>
+      
       <typePrefix>car</typePrefix>
       <vendor>Toyota</vendor>
       <model>Land Cruiser</model>
@@ -62,16 +62,15 @@
       <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1075797749-60112af7</android_tracking_url>
       <bundle_id>ru.auto.ara</bundle_id>
       <ios_app_store_id>507760450</ios_app_store_id>
-    </offer><offer id="1083152918-4b3790ce" available="">
+    </offer><ofer id="1083152918-4b3790ce" available="">
       <url>https://auto.ru/cars/used/sale/ford/tourneo_connect/1083152918-4b3790ce/</url>
       <price>475000</price>
       <oldprice></oldprice>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
       <picture>https://avatars.mds.yandex.net/get-autoru-vos/2153411/f680ad70c30dcabc0ee94d114aa2313c/1200x900</picture>
-      <typePrefix>car</typePrefix>
-      <vendor>Ford</vendor>
-      <model>Tourneo Connect</model>
+      
+      
       <description>Авто в отличном состоянии, двигатель и коробка передач без нареканий,масло не ест!</description>
       <ios_url>autoru://app/cars/used/sale/1083152918-4b3790ce/?adjust_tracker=mqn3my</ios_url>
       <android_url>autoru://app/cars/used/sale/1083152918-4b3790ce/?adjust_tracker=ruupl3</android_url>
@@ -79,9 +78,9 @@
       <android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1083152918-4b3790ce</android_tracking_url>
       <bundle_id>ru.auto.ara</bundle_id>
       <ios_app_store_id>507760450</ios_app_store_id>
-    </offer><offer id="1083784533-590c1553" available="">
+    </offer><offer id="" available="false">
       <url>https://auto.ru/cars/used/sale/kia/optima/1083784533-590c1553/</url>
-      <price>1199000</price>
+      <price>1z199000</price>
       <oldprice></oldprice>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
