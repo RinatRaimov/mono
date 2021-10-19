@@ -8,7 +8,7 @@
 		<g:title>Dog Bowl In Blue</g:title>
 		<g:description>Solid plastic Dog Bowl in marine blue color</g:description>
 		<g:link>http://www.example.com/bowls/db-1.html</g:link>
-		<g:image_link>http://images.example.com/DB_1.png</g:image_link>
+		<g:image_link>http://images.example.com/DB_1</g:image_link>
 		<g:brand>Example</g:brand>
 		<g:condition>new</g:condition>
 		<g:availability>in stock</g:availability>
