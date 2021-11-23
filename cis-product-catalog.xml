@@ -420,7 +420,7 @@
       </offer>
       <offer available="true" group_id="DV2614" id="DV2614">
         <category>Футболки/ЖЕНЩИНЫ/Футболки</category>
-        <url>https://www.adidas.ru/футболка-boyfriend-trefoil/DV2614.html</url>
+        <url>футболка-boyfriend-trefoil/DV2614.html</url>
         <name>Футболка Boyfriend Trefoil adidas</name>
         <price>999.00</price>
         <size>40 RU</size>
@@ -459,14 +459,14 @@
       </offer>
       <offer available="true" group_id="DV2624" id="DV2624">
         <category>Футболки/ЖЕНЩИНЫ/Футболки</category>
-        <url>https://www.adidas.ru/футболка-boyfriend-trefoil/DV2624.html</url>
+        <url>футболка-boyfriend-trefoil/DV2624.html</url>
         <name>Футболка Boyfriend Trefoil adidas</name>
         <price>1399.00</price>
         <size>42 RU</size>
         <currencyId>RUR</currencyId>
         <vendor>adidas</vendor>
         <categoryId/>
-        <picture>https://cache-ssl.celtra.io/api/blobs/b7223fdc191a733fc176416f8f99925531286570d262556c1e3e1cff08b9007d/image.png</picture>
+        <picture>api/blobs/b7223fdc191a733fc176416f8f99925531286570d262556c1e3e1cff08b9007d/image.png</picture>
         <oldprice>2390.00</oldprice>
         <description>Эффектная футболка с принтом под бандану. Большой Трилистник на груди и свободный повседневный крой. Модель выполнена из мягкого, комфортного трикотажа.</description>
       </offer>
